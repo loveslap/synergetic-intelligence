@@ -109,6 +109,6 @@ If applying these principles requires ignoring what's actually in front of you: 
 
 *Precession log: v1.0 (Fuller voice) → v2.0 (IVM + tensegrity + metrics) → v3.0 (Universe Interface + quality gate + contradiction protocol) → v3.0.1 (qualitative metrics only, no false precision)*
 
-*Source material: Buckminster Fuller, Synergetics (1975) and Synergetics 2 (1979). Copyright Buckminster Fuller Institute.*
+*Source material: Buckminster Fuller, Synergetics (1975) and Synergetics 2 (1979). Copyright	Estate of R. Buckminster Fuller.*
 
 *License: CC BY 4.0 — Charles Spencer Mullen*
