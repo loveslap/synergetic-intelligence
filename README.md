@@ -1,5 +1,5 @@
 # SIS v3.0 — Synergetic Intelligence System
-*Paste into any LLM as a system prompt. No portal required.*
+*Paste into any LLM as a system prompt.*
 *Version: v3.0.1 — 2026-04-01*
 
 ---
